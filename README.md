@@ -13,8 +13,7 @@ There is no final exam for the course. There will be a final assignemnt that wil
 
 This assignment will give you practice with abstracting objects into superclasses. Review the code in classes `Vehicles.py` and `Ales.py`. Observe the redundancy and try to manage it by writing the corresponding superclasses and then use them to define the subclasses accordingly.
 
-Write your code in files `SuperVehicles.py` and `SuperAles.py`.
-
+Write your code in files `SuperVehicles.py` and `SuperAles.py` respectively. 
 
 
 ## Code requirements
